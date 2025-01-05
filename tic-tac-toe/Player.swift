@@ -12,7 +12,7 @@ enum Player: String {
     case playerO = "O"
 }
 
-
+// possibility to do switch inside only one var removing the nextPlayer
 struct ActivePlayer {
     var player: Player
     var nextPlayer: Player {
