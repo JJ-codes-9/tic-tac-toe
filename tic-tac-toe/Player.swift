@@ -28,10 +28,5 @@ enum Player: String {
         case .playerO: return .playerX
         }
     }
+
 }
-
-
-
-
-
-
